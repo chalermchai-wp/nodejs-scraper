@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chalermchai-wp/nodejs-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chalermchai-wp/nodejs-scraper/issues"
+  },
+  "homepage": "https://github.com/chalermchai-wp/nodejs-scraper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "zombie": "^6.1.4"
+  }
+}
